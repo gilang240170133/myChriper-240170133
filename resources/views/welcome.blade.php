@@ -7,14 +7,12 @@
         <div class="card bg-base-100 border border-base-content/10 shadow-xl">
             <div class="card-body">
                 <div>
-                    <h1 class="text-4xl font-extrabold tracking-tight bg-linear-to-r from-blue-600 to-indigo-500 bg-clip-text text-transparent">
-                        Welcome to Chirper!
-                    </h1>
-                    <p class="mt-4 text-base-content/60">
-                        This is your brand new Laravel application. Time to make it sing (or chirp)!
-                    </p>
+                    <h1 class="text-3xl font-bold">Welcome to Chirper!</h1>
+                    <p>This is your brand new Laravel app. Time to make it sing (or chirp)!</p>
+                    <p class="mt-2 text-sm text-gray-600">Now this is live on the internet! 🎉</p>
                 </div>
             </div>
         </div>
+    </div>
     </div>
 </x-layout>
